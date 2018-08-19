@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Сортировки\RangeSort\bin\Debug\RangeSort.exe.config
+E:\ВНТУ\2_Курс\study\C#\Сортировки\RangeSort\bin\Debug\RangeSort.exe
+E:\ВНТУ\2_Курс\study\C#\Сортировки\RangeSort\bin\Debug\RangeSort.pdb
+E:\ВНТУ\2_Курс\study\C#\Сортировки\RangeSort\obj\Debug\RangeSort.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Сортировки\RangeSort\obj\Debug\RangeSort.exe
+E:\ВНТУ\2_Курс\study\C#\Сортировки\RangeSort\obj\Debug\RangeSort.pdb

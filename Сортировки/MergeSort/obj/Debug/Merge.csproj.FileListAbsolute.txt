@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Сортировки\MergeSort\bin\Debug\Merge.exe.config
+E:\ВНТУ\2_Курс\study\C#\Сортировки\MergeSort\bin\Debug\Merge.exe
+E:\ВНТУ\2_Курс\study\C#\Сортировки\MergeSort\bin\Debug\Merge.pdb
+E:\ВНТУ\2_Курс\study\C#\Сортировки\MergeSort\obj\Debug\Merge.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Сортировки\MergeSort\obj\Debug\Merge.exe
+E:\ВНТУ\2_Курс\study\C#\Сортировки\MergeSort\obj\Debug\Merge.pdb

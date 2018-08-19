@@ -1,0 +1,12 @@
+E:\ВНТУ\2_Курс\study\C#\InsertionsSort\bin\Debug\InsertionsSort.exe.config
+E:\ВНТУ\2_Курс\study\C#\InsertionsSort\bin\Debug\InsertionsSort.exe
+E:\ВНТУ\2_Курс\study\C#\InsertionsSort\bin\Debug\InsertionsSort.pdb
+E:\ВНТУ\2_Курс\study\C#\InsertionsSort\obj\Debug\InsertionsSort.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\InsertionsSort\obj\Debug\InsertionsSort.exe
+E:\ВНТУ\2_Курс\study\C#\InsertionsSort\obj\Debug\InsertionsSort.pdb
+E:\ВНТУ\2_Курс\study\C#\Сортировки\InsertionsSort\bin\Debug\InsertionsSort.exe.config
+E:\ВНТУ\2_Курс\study\C#\Сортировки\InsertionsSort\bin\Debug\InsertionsSort.exe
+E:\ВНТУ\2_Курс\study\C#\Сортировки\InsertionsSort\bin\Debug\InsertionsSort.pdb
+E:\ВНТУ\2_Курс\study\C#\Сортировки\InsertionsSort\obj\Debug\InsertionsSort.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Сортировки\InsertionsSort\obj\Debug\InsertionsSort.exe
+E:\ВНТУ\2_Курс\study\C#\Сортировки\InsertionsSort\obj\Debug\InsertionsSort.pdb

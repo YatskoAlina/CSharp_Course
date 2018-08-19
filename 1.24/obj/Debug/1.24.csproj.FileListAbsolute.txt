@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\1.24\bin\Debug\1.24.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\1.24\bin\Debug\1.24.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\1.24\bin\Debug\1.24.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\1.24\obj\Debug\1.24.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Задачі\1.24\obj\Debug\1.24.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\1.24\obj\Debug\1.24.pdb

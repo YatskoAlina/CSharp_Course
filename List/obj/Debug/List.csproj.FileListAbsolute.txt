@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\List\bin\Debug\List.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\List\bin\Debug\List.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\List\bin\Debug\List.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Задачі\List\obj\Debug\List.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\List\obj\Debug\List.pdb

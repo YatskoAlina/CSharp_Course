@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task6_ForIf\bin\Debug\Task6_ForIf.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task6_ForIf\bin\Debug\Task6_ForIf.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task6_ForIf\bin\Debug\Task6_ForIf.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task6_ForIf\obj\Debug\Task6_ForIf.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task6_ForIf\obj\Debug\Task6_ForIf.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task6_ForIf\obj\Debug\Task6_ForIf.csprojResolveAssemblyReference.cache

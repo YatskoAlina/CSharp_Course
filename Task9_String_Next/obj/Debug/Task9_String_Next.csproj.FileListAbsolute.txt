@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_String_Next\bin\Debug\Task9_String_Next.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_String_Next\bin\Debug\Task9_String_Next.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_String_Next\bin\Debug\Task9_String_Next.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_String_Next\obj\Debug\Task9_String_Next.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_String_Next\obj\Debug\Task9_String_Next.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_String_Next\obj\Debug\Task9_String_Next.csprojResolveAssemblyReference.cache

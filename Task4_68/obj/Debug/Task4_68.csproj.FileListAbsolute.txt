@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_68\bin\Debug\Task4_68.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_68\bin\Debug\Task4_68.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_68\bin\Debug\Task4_68.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_68\obj\Debug\Task4_68.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_68\obj\Debug\Task4_68.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_68\obj\Debug\Task4_68.pdb

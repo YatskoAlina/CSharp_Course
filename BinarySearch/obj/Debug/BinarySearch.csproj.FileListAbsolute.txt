@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\BinarySearch\bin\Debug\BinarySearch.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\BinarySearch\bin\Debug\BinarySearch.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\BinarySearch\bin\Debug\BinarySearch.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\BinarySearch\obj\Debug\BinarySearch.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\BinarySearch\obj\Debug\BinarySearch.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache

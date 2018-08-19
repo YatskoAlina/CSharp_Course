@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_Different\bin\Debug\Task9_Different.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_Different\bin\Debug\Task9_Different.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_Different\bin\Debug\Task9_Different.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_Different\obj\Debug\Task9_Different.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_Different\obj\Debug\Task9_Different.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_Different\obj\Debug\Task9_Different.csprojResolveAssemblyReference.cache

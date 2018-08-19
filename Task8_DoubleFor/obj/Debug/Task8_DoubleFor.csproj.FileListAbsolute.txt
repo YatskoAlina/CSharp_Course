@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task8_DoubleFor\bin\Debug\Task8_DoubleFor.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task8_DoubleFor\bin\Debug\Task8_DoubleFor.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task8_DoubleFor\bin\Debug\Task8_DoubleFor.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task8_DoubleFor\obj\Debug\Task8_DoubleFor.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task8_DoubleFor\obj\Debug\Task8_DoubleFor.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task8_DoubleFor\obj\Debug\Task8_DoubleFor.csprojResolveAssemblyReference.cache

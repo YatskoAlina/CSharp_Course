@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Buble\bin\Debug\Buble.exe.config
+E:\ВНТУ\2_Курс\study\C#\Buble\bin\Debug\Buble.exe
+E:\ВНТУ\2_Курс\study\C#\Buble\bin\Debug\Buble.pdb
+E:\ВНТУ\2_Курс\study\C#\Buble\obj\Debug\Buble.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Buble\obj\Debug\Buble.exe
+E:\ВНТУ\2_Курс\study\C#\Buble\obj\Debug\Buble.pdb

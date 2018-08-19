@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_switch_case\bin\Debug\Task4_switch_case.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_switch_case\bin\Debug\Task4_switch_case.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_switch_case\bin\Debug\Task4_switch_case.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_switch_case\obj\Debug\Task4_switch_case.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_switch_case\obj\Debug\Task4_switch_case.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task4_switch_case\obj\Debug\Task4_switch_case.pdb

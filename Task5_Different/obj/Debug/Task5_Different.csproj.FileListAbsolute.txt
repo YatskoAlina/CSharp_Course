@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task5_Different\bin\Debug\Task5_Different.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task5_Different\bin\Debug\Task5_Different.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task5_Different\bin\Debug\Task5_Different.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task5_Different\obj\Debug\Task5_Different.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task5_Different\obj\Debug\Task5_Different.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task5_Different\obj\Debug\Task5_Different.pdb

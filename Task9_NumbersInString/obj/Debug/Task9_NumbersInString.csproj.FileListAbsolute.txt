@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_NumbersInString\bin\Debug\Task9_NumbersInString.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_NumbersInString\bin\Debug\Task9_NumbersInString.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_NumbersInString\bin\Debug\Task9_NumbersInString.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_NumbersInString\obj\Debug\Task9_NumbersInString.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_NumbersInString\obj\Debug\Task9_NumbersInString.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Task9_NumbersInString\obj\Debug\Task9_NumbersInString.pdb

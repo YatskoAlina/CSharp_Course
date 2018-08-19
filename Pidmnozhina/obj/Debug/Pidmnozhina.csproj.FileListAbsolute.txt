@@ -1,0 +1,6 @@
+E:\ВНТУ\2_Курс\study\C#\Задачі\Pidmnozhina\bin\Debug\Pidmnozhina.exe.config
+E:\ВНТУ\2_Курс\study\C#\Задачі\Pidmnozhina\bin\Debug\Pidmnozhina.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Pidmnozhina\bin\Debug\Pidmnozhina.pdb
+E:\ВНТУ\2_Курс\study\C#\Задачі\Pidmnozhina\obj\Debug\Pidmnozhina.csprojResolveAssemblyReference.cache
+E:\ВНТУ\2_Курс\study\C#\Задачі\Pidmnozhina\obj\Debug\Pidmnozhina.exe
+E:\ВНТУ\2_Курс\study\C#\Задачі\Pidmnozhina\obj\Debug\Pidmnozhina.pdb
